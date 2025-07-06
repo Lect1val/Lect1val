@@ -13,7 +13,7 @@ Hello there! I'm a backend developer who loves building cool stuff behind the sc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lect1val&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lect1val&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Lect1val&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lect1val&icon=0&color=0)](https://visitcount.itsvg.in)
