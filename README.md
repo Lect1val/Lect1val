@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Pete:
 Hello there! I'm a backend developer who loves building cool stuff behind the scenes.<br>You'll often catch me using AI buddies like Gemini or ChatGPT to kickstart ideas or solve tricky problems.<br>My current work is about an engagement platform for Web3 that involves blockchain and smart contracts.<br>I'm usually getting lost in a video game, movie, book, or manga.<br>But sometimes I'm exploring something new like diving underwater (yep, I'm Open Water Scuba certified!).<br>Basically, I'm all about new adventures, both in tech and out in the world!
 
 
@@ -10,7 +10,7 @@ Hello there! I'm a backend developer who loves building cool stuff behind the sc
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lect1val&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Lect1val&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lect1val&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lect1val&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lect1val&icon=0&color=0)](https://visitcount.itsvg.in)
